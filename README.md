@@ -41,6 +41,9 @@ namespace HelloWorldApp {
 - [Naver](https://www.naver.com)
 - [Oracle](https://www.oracle.com)
 
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
+
 -------------------------------
 
 ## CSS3
