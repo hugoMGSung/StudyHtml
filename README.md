@@ -36,7 +36,10 @@ namespace HelloWorldApp {
 
 ![실행결과](https://github.com/hugoMGSung/StudyHtml/blob/main/ref_images/console_result.png "절대경로")
 
+```
 ![실행결과](ref_images/console_result.png "상대경로")
+```
+<img src="https://github.com/hugoMGSung/StudyHtml/blob/main/ref_images/console_result.png" width="400" title="절대경로" alt="실행결과" />
 
 참조링크
 -------
