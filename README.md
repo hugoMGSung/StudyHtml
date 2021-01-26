@@ -14,7 +14,7 @@ HTML 기본 학습
 
 - Hyper Text Markup *Language* 정의
 - __HTML__ _역사_
-- **HTML5**의 __~차이점~__
+- **HTML5의 ~차이점~**
   - UL2
     - SUL3
     - SUL4
