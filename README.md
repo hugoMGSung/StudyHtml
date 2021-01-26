@@ -12,6 +12,8 @@ HTML 기본 학습
 개요에 대해서 학습합니다
 1. Hyper Text Markup Language 정의
 1. HTML 역사 
+  - ㅇ라ㅓ
+  - 
 1. HTML5의 차이점
 
 - Hyper Text Markup *Language* 정의
